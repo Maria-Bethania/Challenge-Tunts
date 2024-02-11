@@ -24,7 +24,8 @@
     EngSoftTunts.xlsx: Excel file used for initial data extraction.
     Challenge_TuntsRocks_2024.ipynb: Jupyter notebook with the complete code.
 
-    You can access the notebook using the [access link](https://drive.google.com/drive/folders/17F2mKCFjWcfTwhOPs0vLhHZNBYuxKiF1?usp=sharing).
+    You can access the drive using the access link:
+    https://drive.google.com/drive/folders/17F2mKCFjWcfTwhOPs0vLhHZNBYuxKiF1?usp=sharing
 
     
 ## Analysis Summary
